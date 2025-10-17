@@ -2,37 +2,37 @@
     {
         "titulo": "Cecinas Riñihue",
         "categoria": "Imagen de Marca y Logo",
-        "imagen": "img/cecinas riñihue.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/cecinas-rin%CC%83ihue.webp",
         "alt": "Cecinas Riñihue"
     },
     {
         "titulo": "De Tu Madre",
         "categoria": "Imagen de Marca",
-        "imagen": "img/de tu madre.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/de-tu-madre.webp",
         "alt": "De Tu Madre"
     },
     {
         "titulo": "Ilustraciones Barbiestelar",
         "categoria": "Ilustraciones",
-        "imagen": "img/ilustracion barbiestelart.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/ilustracion-barbiestelart.webp",
         "alt": "Ilustraciones"
     },
     {
         "titulo": "LYS Natural",
         "categoria": "Imagen de Marca",
-        "imagen": "img/lys natural.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/lys-natural.webp",
         "alt": "Marca"
     },
     {
         "titulo": "Trabert Tattoos",
         "categoria": "Sesión Fotográfica",
-        "imagen": "img/trabert tattoos.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/trabert-tattoos.webp",
         "alt": "Fotografía"
     },
     {
         "titulo": "Una Vera Avventura",
         "categoria": "Editorial",
-        "imagen": "img/una vera avventura.jpg",
+        "imagen": "https://barbaratrabert.github.io/clase-10/img/una-vera-avventura.webp",
         "alt": "Libro"
     }
 ]
