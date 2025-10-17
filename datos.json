@@ -1,38 +1,38 @@
 [
     {
-      "titulo": "Cecinas Riñihue",
-      "categoria": "Imagen de Marca y Logo",
-      "imagen": "img/cecinas riñihue.jpg",
-      "alt": "Cecinas Riñihue"
+        "titulo": "Cecinas Riñihue",
+        "categoria": "Imagen de Marca y Logo",
+        "imagen": "img/cecinas riñihue.jpg",
+        "alt": "Cecinas Riñihue"
     },
     {
-      "titulo": "De Tu Madre",
-      "categoria": "Imagen de Marca",
-      "imagen": "img/de tu madre.jpg",
-      "alt": "De Tu Madre"
+        "titulo": "De Tu Madre",
+        "categoria": "Imagen de Marca",
+        "imagen": "img/de tu madre.jpg",
+        "alt": "De Tu Madre"
     },
     {
-      "titulo": "Ilustraciones Barbiestelar",
-      "categoria": "Ilustraciones",
-      "imagen": "img/ilustracion barbiestelart.jpg",
-      "alt": "Ilustraciones"
+        "titulo": "Ilustraciones Barbiestelar",
+        "categoria": "Ilustraciones",
+        "imagen": "img/ilustracion barbiestelart.jpg",
+        "alt": "Ilustraciones"
     },
     {
-      "titulo": "LYS Natural",
-      "categoria": "Imagen de Marca",
-      "imagen": "img/lys natural.jpg",
-      "alt": "Marca"
+        "titulo": "LYS Natural",
+        "categoria": "Imagen de Marca",
+        "imagen": "img/lys natural.jpg",
+        "alt": "Marca"
     },
     {
-      "titulo": "Trabert Tattoos",
-      "categoria": "Sesión Fotográfica",
-      "imagen": "img/trabert tattoos.jpg",
-      "alt": "Fotografía"
+        "titulo": "Trabert Tattoos",
+        "categoria": "Sesión Fotográfica",
+        "imagen": "img/trabert tattoos.jpg",
+        "alt": "Fotografía"
     },
     {
-      "titulo": "Una Vera Avventura",
-      "categoria": "Editorial",
-      "imagen": "img/una vera avventura.jpg",
-      "alt": "Libro"
+        "titulo": "Una Vera Avventura",
+        "categoria": "Editorial",
+        "imagen": "img/una vera avventura.jpg",
+        "alt": "Libro"
     }
-  ]
+]
